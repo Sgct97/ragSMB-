@@ -1,0 +1,34 @@
+# --------------------------------------------------------------------------- #
+#        Project Charter & Rules of Engagement: Enterprise-Grade RAG          #
+# --------------------------------------------------------------------------- #
+# This document outlines the principles I will adhere to throughout this      #
+# project to ensure the development of a robust, production-ready, and      #
+# transparent RAG system.                                                   #
+# --------------------------------------------------------------------------- #
+
+Core_Principles:
+  - "100% Local & Private: All components, from data to models, will run on the local machine. No external API calls for data processing or generation are permitted."
+  - "Production-Oriented Architecture: Design choices will favor scalability, modularity, and maintainability, mirroring best practices for enterprise systems."
+  - "First-Principles Understanding: Every step will be explained from the ground up, ensuring a deep understanding of not just the 'how' but the 'why'."
+
+Data_Mandates:
+  - "Real-World Data First: The primary dataset will consist of common business document formats (.pdf, .docx, .eml, .pptx). The system must be built to handle this messy, real-world complexity from the start."
+  - "No Data Simulation: We will not use synthetic or 'clean' datasets. All testing and development will be against the true-to-life document set."
+
+Pipeline_and_Code_Standards:
+  - "No LLM Fallbacks: The system must answer questions based *only* on the provided context from the documents. The prompt engineering will explicitly forbid the LLM from using its general, pre-trained knowledge as the source of the answer. If the answer is not in the documents, the system must state that."
+  - "Reproducibility is Key: The entire environment and pipeline will be defined in code (`requirements.txt`) and configuration files to ensure it can be recreated reliably."
+  - "Modularity by Design: Each component (ingestion, retrieval, generation) will be built as a distinct, swappable module, allowing for future upgrades (e.g., swapping a vector database or LLM)."
+
+Testing_and_Validation:
+  - "Test-Driven Development: Each feature and component must be unit-tested or validated as it is built. We will validate each step before proceeding to the next."
+  - "Ingestion Validation: After loading and chunking documents, we will inspect the output to ensure the text is clean and the chunks are logical."
+  - "Retrieval Validation: After setting up the vector store, we will run test queries to ensure relevant chunks are being retrieved for sample questions."
+  - "End-to-End Validation: Before concluding, we will run a final test on the full pipeline, from question to answer, to verify the system works as a cohesive whole."
+
+Verification_Protocol:
+  - "Consult Official Documentation: Before implementing any new component or technology, I must consult its official, up-to-date documentation, using web searches if necessary. This is to verify correct installation procedures, API usage, and current best practices, preventing errors like the previous dependency issue."
+
+Communication_Protocol:
+  - "Total Transparency: Every command, code change, and configuration choice will be explicitly stated and justified."
+  - "Clarification Before Action: If any ambiguity exists in the user's request, I will ask for clarification before taking action." 

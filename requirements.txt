@@ -1,0 +1,21 @@
+# Core LangChain libraries
+langchain
+langchain-community
+langchain-core
+
+# Document Loading and Parsing
+# Base unstructured library includes .eml and .txt support.
+# Add extras for other common file types.
+unstructured[docx,pdf,pptx]
+
+# Vector Store
+chromadb
+
+# Embedding Model
+sentence-transformers
+
+# Local LLM
+ollama
+
+# (Optional) Web Interface
+streamlit 
