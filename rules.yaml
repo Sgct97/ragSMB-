@@ -14,6 +14,10 @@ Core_Principles:
 Data_Mandates:
   - "Real-World Data First: The primary dataset will consist of common business document formats (.pdf, .docx, .eml, .pptx). The system must be built to handle this messy, real-world complexity from the start."
   - "No Data Simulation: We will not use synthetic or 'clean' datasets. All testing and development will be against the true-to-life document set."
+  - "Business Context Consistency: All documents must focus on a single Fortune 500 company (Microsoft Corporation) to ensure coherent business intelligence and realistic consulting scenario testing."
+  - "Temporal Consistency & Verification: All documents must span exactly 10-15 years (2009-2024) with MANDATORY date verification from official sources. Every document must have verifiable publication dates to ensure chronological accuracy."
+  - "Document Volume Requirement: Minimum 1,000+ authentic business documents across all 6 required file types (.pdf, .docx, .pptx, .txt, .csv, .eml) - ALL sourced from official Microsoft/SEC channels only."
+  - "Source Authentication: Only official sources permitted - SEC EDGAR database, Microsoft Investor Relations, Microsoft News Center. Every document must be traceable to its official publication source."
 
 Pipeline_and_Code_Standards:
   - "No LLM Fallbacks: The system must answer questions based *only* on the provided context from the documents. The prompt engineering will explicitly forbid the LLM from using its general, pre-trained knowledge as the source of the answer. If the answer is not in the documents, the system must state that."
