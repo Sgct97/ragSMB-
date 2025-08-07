@@ -117,3 +117,15 @@ data/
 *.db
 *.faiss
 chroma/ 
+# Project data and build artifacts
+node_modules/
+venv/
+chroma_db/
+extracted_csv/
+extracted_pdf/
+backup_microsoft_sec/
+microsoft_edgar/
+msft_data/
+.DS_Store
+business_data_other_remaining*.txt
+business_data/
