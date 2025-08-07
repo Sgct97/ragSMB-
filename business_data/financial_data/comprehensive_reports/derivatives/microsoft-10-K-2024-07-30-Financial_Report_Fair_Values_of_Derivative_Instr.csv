@@ -1,0 +1,63 @@
+Fair Values of Derivative Instruments (Detail) - USD ($) $ in Millions,"Jun. 30, 2024","Jun. 30, 2023"
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,331,469
+"Gross amounts of derivatives offset in the balance sheets, assets",-151,-202
+"Cash collateral received, assets",0,0
+"Net amounts of derivatives, assets",180,267
+"Derivative Asset, Current, Statement of Financial Position [Extensible Enumeration]",Other current assets,Other current assets
+"Derivative Asset, Noncurrent, Statement of Financial Position [Extensible Enumeration]",Other long-term assets,Other long-term assets
+Derivative Liabilities,-800,-805
+"Gross amounts of derivatives offset in the balance sheet, liabilities",152,206
+"Cash collateral received, liabilities",-104,-125
+"Net amounts of derivatives, liabilities",-752,-724
+"Derivative Liability, Statement of Financial Position [Extensible Enumeration]",Other current liabilities,Other current liabilities
+"Derivative Liability, Noncurrent, Statement of Financial Position [Extensible Enumeration]",Other long-term liabilities,Other long-term liabilities
+Derivative Asset Statement of Financial Position [Extensible Enumeration not Disclosed Flag],"Net amounts of derivatives, assets","Net amounts of derivatives, assets"
+Derivative Liability Statement of Financial Position [Extensible Enumeration not Disclosed Flag],"Net amounts of derivatives, liabilities","Net amounts of derivatives, liabilities"
+Level 1, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,0,0
+Derivative Liabilities,-1,0
+Level 2, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,327,462
+Derivative Liabilities,-799,-805
+Level 3, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,4,7
+Derivative Liabilities,0,0
+Designated as Hedging Instruments | Foreign Exchange Contracts, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,24,34
+Derivative Liabilities,-76,-67
+Designated as Hedging Instruments | Interest Rate Contracts, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,19,16
+Derivative Liabilities,0,0
+Not Designated as Hedging Instruments | Foreign Exchange Contracts, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,213,249
+Derivative Liabilities,-230,-332
+Not Designated as Hedging Instruments | Equity Contracts, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,63,165
+Derivative Liabilities,-491,-400
+Not Designated as Hedging Instruments | Other Contracts, , 
+Derivatives Fair Value [Line Items], , 
+Derivative Assets,12,5
+Derivative Liabilities,-3,-6
+Short-term Investments, , 
+Derivatives Fair Value [Line Items], , 
+"Net amounts of derivatives, assets",12,6
+Other Current Assets, , 
+Derivatives Fair Value [Line Items], , 
+"Net amounts of derivatives, assets",149,245
+Other Long-term Assets, , 
+Derivatives Fair Value [Line Items], , 
+"Net amounts of derivatives, assets",19,16
+Other Current Liabilities, , 
+Derivatives Fair Value [Line Items], , 
+"Net amounts of derivatives, liabilities",-401,-341
+Other Long-term Liabilities, , 
+Derivatives Fair Value [Line Items], , 
+"Net amounts of derivatives, liabilities",-351,-383

@@ -1,0 +1,5 @@
+/Users/spensercourville-taylor/htmlfiles/RAGtest/business_data/financial_data/comprehensive_reports/other/microsoft-10-K-2024-07-30-Financial_Report_Major_Classes_of_Assets_and_L_2.csv
+/Users/spensercourville-taylor/htmlfiles/RAGtest/business_data/financial_data/comprehensive_reports/other/microsoft-10-K-2024-07-30-Financial_Report_Supplemental_Consolidated_Finan.pdf
+/Users/spensercourville-taylor/htmlfiles/RAGtest/business_data/financial_data/comprehensive_reports/other/microsoft-10-Q-2024-10-30-Financial_Report_Supplemental_Consolidated_Finan.csv
+/Users/spensercourville-taylor/htmlfiles/RAGtest/business_data/financial_data/comprehensive_reports/other/microsoft-8-K-2024-12-03-Financial_Report_Major_Classes_of_Assets_and_L_2.csv
+/Users/spensercourville-taylor/htmlfiles/RAGtest/business_data/financial_data/comprehensive_reports/other/microsoft-8-K-2024-12-03-Financial_Report_Supplemental_Consolidated_Finan.pdf

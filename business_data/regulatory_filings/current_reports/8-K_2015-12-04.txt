@@ -1,0 +1,1659 @@
+<SEC-DOCUMENT>0001193125-15-395460.txt : 20151204
+<SEC-HEADER>0001193125-15-395460.hdr.sgml : 20151204
+<ACCEPTANCE-DATETIME>20151204164801
+ACCESSION NUMBER:		0001193125-15-395460
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20151204
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20151204
+DATE AS OF CHANGE:		20151204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14278
+		FILM NUMBER:		151270570
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+		BUSINESS PHONE:		425-882-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d221652d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>WASHINGTON, DC 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM 8-K </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>PURSUANT TO SECTION 13 OR
+15(D) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Date of report (Date of earliest event reported) December&nbsp;4, 2015 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>Microsoft Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>(Exact Name of Registrant as Specified in Its Charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Washington </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(State or Other Jurisdiction of Incorporation) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:12pt">
+<TD VALIGN="top" ALIGN="center"><B>0-14278</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>91-1144442</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:12pt">
+<TD VALIGN="top" ALIGN="center"><B>One Microsoft Way, Redmond, Washington</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>98052-6399</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of Principal Executive Offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>(425) 882-8080 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Registrant&#146;s Telephone Number, Including Area Code) </B></P>
+<P STYLE="margin-top:8pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Former Name or Former Address, if Changed Since Last Report) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="1%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="98%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL"><FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL"><FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL"><FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL"><FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Item&nbsp;7.01.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regulation FD Disclosure </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">On November&nbsp;24, 2015, the Honorable John C. Coughenour entered a Preliminary Approval Order (&#147;Order&#148;) approving the Stipulation and Agreement of
+Settlement in <I>Barovic v. Ballmer, et al.</I>, No.&nbsp;2:14-cv-00540-JCC, a shareholder derivative action in the United States District Court for the Western District of Washington.&nbsp;Pursuant to the Order, we are furnishing the attached
+Notice of Pendency and Proposed Settlement of Shareholder Derivative Action to holders of record and beneficial owners of the common stock of Microsoft Corporation. </P>
+<P STYLE="margin-top:33pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Item&nbsp;9.01. Financial Statements and Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:10pt; font-family:ARIAL">(d)
+Exhibit: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">99.1 Notice of Pendency and Proposed Settlement of Shareholder Derivative Action </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In accordance with General Instruction B.2 of Form 8-K, the information in this Current Report on <FONT STYLE="white-space:nowrap">Form&nbsp;8-K,</FONT> including
+Exhibit 99.1, shall not be deemed to be &#147;filed&#148; for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;), or otherwise subject to the liability of that section, and shall not be
+incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURE </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="53%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">MICROSOFT CORPORATION</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">Date: December 4, 2015</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="center">/s/ John A. Seethoff</P></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">John A Seethoff</TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">Corporate Secretary</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d221652dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:9pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right"><B>Exhibit 99.1</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">The Honorable John C. Coughenour</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="81" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD HEIGHT="81" COLSPAN="4"></TD>
+<TD HEIGHT="81" COLSPAN="2" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES DISTRICT COURT</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>WESTERN DISTRICT OF WASHINGTON</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>AT SEATTLE</B></P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">BAROVIC v. BALLMER, ET AL.</P>
+<P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">This Document Relates To:</P>
+<P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.08em; font-size:12pt; font-family:Times New Roman">ALL ACTIONS</P>
+<P STYLE="font-size:58pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Lead Case No: 2:14-cv-00540-JCC</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">(Consolidated with Case No.&nbsp;2:14-cv-00586-JCC)</P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">SETTLEMENT OF SHAREHOLDER</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">DERIVATIVE ACTION</P> <P STYLE="font-size:36pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="98%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>NOTICE OF PENDENCY AND PROPOSED SETTLEMENT OF</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B><U>SHAREHOLDER DERIVATIVE ACTION</U></B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B>TO:&nbsp;&nbsp;&nbsp;&nbsp;ALL PERSONS WHO OWNED SHARES OF THE COMMON STOCK OF MICROSOFT CORPORATION (&#147;MICROSOFT&#148; OR THE
+&#147;COMPANY&#148;) AS OF OCTOBER 28, 2015 (&#147;CURRENT MICROSOFT SHAREHOLDERS&#148;).</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B>PLEASE READ THIS NOTICE CAREFULLY AND IN ITS ENTIRETY.</B> This Notice relates to a proposed settlement (the &#147;Settlement&#148;) of the
+above-captioned consolidated shareholder derivative action (the &#147;Action&#148;) brought in the United States District Court for the Western District of Washington (the &#147;Court&#148;). Your rights will be affected by the legal proceedings in
+this Action. If the Court approves the Settlement, you will be forever barred from pursuing the Plaintiffs&#146; Released Claims (defined in &para; 14 below) against the Defendants&#146; Released Persons (defined in &para; 14 below).</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">As more fully described below, plaintiffs Kim Barovic and
+Stephen DiPhilipo (&#147;Plaintiffs&#148;) allege in the Action that the Individual Defendants breached their fiduciary duties to the Company under Washington law. Pursuant to the Settlement, Microsoft will adopt and maintain significant corporate
+governance measures concerning the Company&#146;s compliance with antitrust laws and regulations.&nbsp;Specifically, Microsoft has agreed to: (i)&nbsp;create an Antitrust Compliance Office to be led by Microsoft&#146;s Antitrust Compliance Officer
+(&#147;ACO&#148;), responsible for monitoring the Company&#146;s antitrust compliance efforts; (ii)&nbsp;strengthen antitrust compliance reporting requirements to the Company&#146;s Board of Directors (the &#147;Board&#148;) by requiring the ACO to
+report to the Regulatory and Public Policy Committee (the &#147;RPPC&#148;) at every scheduled meeting of the RPPC and to the Board at least annually; (iii)&nbsp;increase the scope of responsibility and authority of the ACO regarding the
+Company&#146;s compliance with antitrust laws and regulations including the ACO&#146;s authority and responsibility to monitor employee, customer, competitor, regulatory or other third-party complaints against the Company concerning the
+Company&#146;s existing antitrust commitments with the EC and EU or U.S. antitrust laws or regulations governing tying, bundling and exclusive dealing contracts; and (iv)&nbsp;provide $8,500,000 per year to fund the Antitrust Compliance Office and
+related antitrust compliance activities.&nbsp;Microsoft further agreed that the Antitrust Compliance Office shall continue to operate and report to the RPPC for a minimum of five (5)&nbsp;years following the Settlement.&nbsp;Each of those
+enhancements is based on input from corporate governance experts and is in line with best practices.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B>Please note that there is no proof of claim form for shareholders to submit in connection with this Settlement, and shareholders are not
+required to take any action in response to this Notice.</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Also, please note that this Notice is not an expression of any opinion by the Court with respect to the truth of the allegations in the Action
+or the merits of the claims or defenses asserted by or against any Party. It is solely to notify you of pendency of the Action and the terms of the proposed Settlement, and your rights related thereto. Capitalized terms not otherwise
+defined</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT OF SHAREHOLDER DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-1-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="98%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">herein shall have the definitions set forth in the Stipulation and
+Agreement of Settlement entered into by the Parties on October&nbsp;28, 2015 (the &#147;Stipulation&#148;). A copy of the Stipulation and this Notice may be found on Microsoft&#146;s corporate website at www.microsoft.com.</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WHAT IS THE PURPOSE OF THIS NOTICE?</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purpose of this Notice is to explain the Action, the terms of the
+proposed Settlement, and how the proposed Settlement affects Microsoft shareholders&#146; legal rights.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a derivative action, one or more people who are current shareholders
+of a corporation sue on behalf of and for the benefit of the corporation, seeking to enforce the corporation&#146;s legal rights. In this case, Plaintiffs have filed suit on behalf of Microsoft asserting claims against defendants Steven A. Ballmer,
+Dina D. Dublon, William H. Gates III, Maria M. Klawe, Stephen J. Luczo, David F. Marquardt, Charles H. Noski, Helmut Panke, John W. Thompson, Peter S. Klein, Brad Smith, and B. Kevin Turner, all of whom are current or former members of the Board of
+Directors (the &#147;Board&#148;) of Microsoft and/or senior officers of Microsoft (collectively, the &#147;Individual Defendants&#148; and together with nominal defendant Microsoft, the &#147;Defendants&#148;).</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Court will hold a hearing (the &#147;Settlement Hearing&#148;) on
+January&nbsp;12, 2016 at 9:00 a.m., at the United States District Court for the Western District of Washington, 700 Stewart St., Seattle, Washington, 98101, at which the Court will: (a)&nbsp;determine whether the Settlement should be approved by the
+Court as fair, reasonable, and adequate; (b)&nbsp;determine whether the Court should enter the Judgment dismissing the Action with prejudice pursuant to the Stipulation; (c)&nbsp;determine whether to approve payment of attorneys&#146; fees and
+expenses to Plaintiffs&#146; Counsel; (d)&nbsp;hear and determine any objections to the Settlement or to the fee and expense award; and (e)&nbsp;rule on such other matters as the Court may deem appropriate.</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WHAT IS THIS CASE ABOUT? WHAT HAS HAPPENED SO FAR?</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">THE FOLLOWING DESCRIPTION OF THE ACTION AND THE SETTLEMENT HAS BEEN PREPARED BY COUNSEL FOR THE PARTIES. THE COURT HAS MADE NO FINDINGS WITH
+RESPECT TO SUCH MATTERS, AND THIS NOTICE IS NOT AN EXPRESSION OR STATEMENT BY THE COURT OF FINDINGS OF FACT.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beginning around 2007, the European Commission (&#147;EC&#148;) raised
+antitrust concerns regarding Microsoft&#146;s inclusion of Internet Explorer (and not other internet web browsers) with Microsoft&#146;s Windows operating system. In December 2009, Microsoft resolved these antitrust concerns by agreeing to certain
+commitments to the EC (the &#147;Commitments&#148;), under which Microsoft agreed to deliver a Brower Choice Screen (&#147;BCS&#148;) to personal computers operating Windows in the European Economic Area (&#147;EEA&#148;) for a period of five years.
+Under the terms of the Commitments, Microsoft became directly responsible for reporting to the EC annually on the implementation of the Commitments over the next five years.</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4.20em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4.20em; font-size:10pt; font-family:Times New Roman">SETTLEMENT OF SHAREHOLDER DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4.20em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:4.20em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-2-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft failed to comply with the Commitments when in connection with
+its release of Windows 7 Service Pack 1 (&#147;SP1&#148;) in February 2011, a technical error and miscommunication resulted in a failure to install the BCS on approximately 15.3&nbsp;million computers in the EEA. In June 2012, the EC staff notified
+Microsoft that it had received reports from a third-party that the BCS was not being displayed on certain new Windows computers purchased in the EEA. Microsoft quickly remedied the failure. On March&nbsp;6, 2013, the EC announced that it had fined
+Microsoft &#128;561&nbsp;million, or approximately $732.2 million, for failing to comply with the Commitments.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a result of the above events, on March&nbsp;21, 2013 and
+March&nbsp;22, 2013, respectively, DiPhilipo and Barovic issued separate demands on the Board to investigate and commence an action against certain current and/or former directors and executive officers of the Company. Plaintiffs&#146; demands were
+substantially identical and were reviewed by a Demand Review Committee (the &#147;DRC&#148;) consisting of Individual Defendants Luczo and Dublon. Based on the recommendation of the DRC, assisted by independent counsel, the Board of Directors
+refused their respective demands by letters dated January&nbsp;28, 2014.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plaintiffs initiated the Action in this Court on behalf of Microsoft on
+April&nbsp;11, 2014. Plaintiffs alleged that the Demands were wrongfully refused and asserted claims under Washington law on behalf of the Company against Defendants for breach of fiduciary duty, unjust enrichment, abuse of control, and gross
+mismanagement. The Company and the Individual Defendants subsequently moved to dismiss the Action, both under Fed. R. Civ. P. 23.1 and under Fed. R. Civ. P. 12(b)(6). On December&nbsp;10, 2014, the Court issued an order denying Microsoft&#146;s and
+the Individual Defendants&#146; motions to dismiss Plaintiffs&#146; complaint.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On May&nbsp;1, 2015, Microsoft filed a Motion for Summary Judgment (the
+&#147;SJ Motion&#148;). Plaintiffs have opposed the SJ Motion, which was pending before the Court at the time that the proposed Settlement was reached by the Parties.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On October&nbsp;28, 2015, the Parties entered into the Stipulation
+setting forth the terms and conditions of the proposed Settlement. On November&nbsp;24, 2015, the Court entered a Preliminary Approval Order in connection with the Settlement which, among other things, preliminary approved the Settlement, authorized
+this Notice to be provided to Current Microsoft Shareholders, and scheduled the Settlement Hearing to consider whether to grant final approval of the Settlement.</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WHAT ARE THE TERMS OF THE SETTLEMENT?</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Defendants have acknowledged that as a direct result of the initiation,
+prosecution, pendency, and settlement of the Action, Microsoft has agreed to make the Corporate Governance Reforms set forth on Exhibit A to this Notice, and that the Reforms will confer a substantial benefit to Microsoft and Current Microsoft
+Shareholders. Microsoft shall initiate the process of implementing the Corporate Governance Reforms within ten (10)&nbsp;calendar days of the Effective Date of the Settlement, and the Corporate Governance Reforms shall be fully implemented no later
+than ninety (90)&nbsp;calendar days after the Effective Date of the Settlement.</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT OF SHAREHOLDER DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-3-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WHAT ARE THE PARTIES&#146; REASONS FOR THE SETTLEMENT?</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plaintiffs&#146; Counsel have conducted an extensive investigation
+relating to the claims and the underlying events alleged in the Action including, but not limited to: (a)&nbsp;inspecting, analyzing, and reviewing Microsoft&#146;s public filings with the SEC, press releases, announcements, transcripts of investor
+conference calls, and news articles; (b)&nbsp;drafting and filing the various complaints and other pleadings in the Action; (c)&nbsp;researching the applicable law with respect to the claims asserted in the Action and the potential defenses thereto;
+(d)&nbsp;researching corporate governance issues; (e)&nbsp;reviewing discovery; (f)&nbsp;preparing a detailed settlement demand; and (g)&nbsp;participating in extensive settlement discussions with counsel for the Defendants.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plaintiffs and Plaintiffs&#146; Counsel believe that the claims asserted
+in the Action have merit and that their investigation supports the claims asserted. Without conceding the merit of any of Defendants&#146; defenses or the lack of merit of any of their own allegations, and solely in order to avoid the potentially
+protracted time, expense, and uncertainty associated with continued litigation, including potential trial(s) and appeal(s), Plaintiffs have concluded that it is desirable that the Action be fully and finally settled in the manner and upon the terms
+and conditions set forth in the Stipulation. Plaintiffs and Plaintiffs&#146; Counsel recognize the significant risk, expense, and length of continued proceedings necessary to prosecute the Action against the Individual Defendants through trial and
+through possible appeal. Plaintiffs and Plaintiffs&#146; Counsel also have taken into account the uncertain outcome and the risk of any litigation, especially in complex cases such as this Action, as well as the difficulties and delays inherent in
+such litigation. Based on their evaluation, Plaintiffs and Plaintiffs&#146; Counsel have determined that the Settlement is in the best interests of Plaintiffs, Microsoft, and Current Microsoft Shareholders, and have agreed to settle the Action upon
+the terms and subject to the conditions set forth in the Stipulation.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Individual Defendants have denied and continue to deny that they
+have committed or attempted to commit any violations of law, any breach of fiduciary duty owed to Microsoft, or any wrongdoing whatsoever. Each Individual Defendant has further asserted that at all material times, he/she has acted in good faith and
+in a manner he/she reasonably believed to be in the best interests of the Company and Current Microsoft Shareholders. Without admitting the validity of any of the claims Plaintiffs have asserted in the Action, or any liability with respect thereto,
+Defendants have concluded that it is desirable that the claims be settled on the terms and subject to the conditions set forth in the Stipulation. Defendants have entered into the Settlement because it will eliminate the uncertainty, distraction,
+disruption, burden, risk, and expense of further litigation. Further, Defendants have acknowledged that the Settlement is fair, reasonable, adequate, and in the best interests of Microsoft and Current Microsoft Shareholders.</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT&nbsp;OF&nbsp;SHAREHOLDER&nbsp;DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-4-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WHAT WILL HAPPEN IF THE SETTLEMENT IS APPROVED? WHAT CLAIMS</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WILL THE SETTLEMENT RELEASE?</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the Settlement Hearing, the Parties shall jointly request that the
+Court enter the Judgment finally approving the Settlement. Pursuant to the Judgment, upon the Effective Date of the Settlement (as defined in the Stipulation), the Action will be dismissed with prejudice and the following releases (the
+&#147;Releases&#148;) will occur:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B>Release of Claims by Current Microsoft Shareholders and Microsoft:</B> (i)&nbsp;Plaintiffs and all other Current
+Microsoft Shareholders shall be deemed to have, and by operation of the law and of the Judgment shall have, fully, finally and forever released, relinquished and discharged their right to assert derivatively on behalf of the Company any and all of
+the Plaintiffs&#146; Released Claims (defined below) against the Defendants&#146; Released Persons (defined below), and shall forever be barred and enjoined from instituting, commencing, or prosecuting derivatively on behalf of the Company any and
+all of the Plaintiffs&#146; Released Claims against the Defendants&#146; Released Persons; and (ii)&nbsp;Microsoft shall be deemed to have, and by operation of the law and of the Judgment shall have, fully, finally, and forever released,
+relinquished and discharged its right to assert directly any and all of the Plaintiffs&#146; Released Claims against the Defendants&#146; Released Persons, and shall forever be barred and enjoined from instituting, commencing, or prosecuting
+directly any and all of the Plaintiffs&#146; Released Claims against the Defendants&#146; Released Persons. In addition, Plaintiffs have agreed, on behalf of themselves only, not to initiate, prosecute, assist in, or facilitate the prosecution of
+any direct claims belonging to Plaintiffs that could have been asserted against the Defendants&#146; Released Persons arising out of, based upon, or relating to the allegations, facts, matters, events, circumstances, disclosures, statements, acts,
+omissions or occurrences set forth in the Complaint or in any other filing by Plaintiffs in this Action, including without limitation, any such claims arising out of the federal securities laws.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Plaintiffs&#146; Released
+Claims</U>&#148; means all actions and causes of action of every nature or description whatsoever, including both known claims and Unknown Claims (defined below), that were or could have been asserted in the Complaint or in any other forum by
+Microsoft directly or by Plaintiffs or any other Microsoft shareholder derivatively on behalf of Microsoft that arise out of, are based upon, or relate to the allegations, facts, matters, events, circumstances, disclosures, statements, acts,
+omissions or occurrences set forth in the Complaint or in any other filing by Plaintiffs in this Action (except for claims to enforce the Settlement). For the avoidance of doubt, the Plaintiffs&#146; Released Claims do not include (i)&nbsp;any
+claims based on any conduct of the Defendants&#146; Released Persons after October&nbsp;28, 2015; or (ii)&nbsp;any direct claims belonging to Microsoft shareholders, including, without limitation, any claims arising under the federal securities
+laws.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Defendants&#146;
+Released Persons</U>&#148; means each of the Defendants and their respective present and former directors, officers, Immediate Family members, agents, advisors, attorneys, personal and legal representatives, employees, affiliates, predecessors,
+successors, parents, subsidiaries, divisions, heirs, beneficiaries, executors, estates, administrators, trusts, trustees, insurers and assigns.</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT OF SHAREHOLDER DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-5-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B>Release of Claims by Defendants:</B>
+Defendants shall be deemed to have, and by operation of the law and of the Judgment shall have, fully, finally and forever released, relinquished and discharged any and all of the Defendants&#146; Released Claims (defined below) against the
+Plaintiffs&#146; Released Persons (defined below), and shall forever be barred and enjoined from instituting, commencing, or prosecuting any and all of the Defendants&#146; Released Claims against the Plaintiffs&#146; Released Persons.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Defendants&#146; Released
+Claims</U>&#148; means all claims and causes of action of every nature and description whatsoever, including both known claims and Unknown Claims (defined below), that arise out of, are based on, or relate to the institution, prosecution, pendency,
+or settlement of the claims asserted against Defendants in the Action (except for claims to enforce the Settlement).</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Plaintiffs&#146; Released Persons</U>&#148; means each of the Plaintiffs, Plaintiffs&#146; Counsel, and all other
+Current Microsoft Shareholders and each of their respective present and former directors, officers, Immediate Family members, agents, advisors, attorneys, personal and legal representatives, employees, affiliates, predecessors, successors, heirs,
+beneficiaries, executors, estates, trusts, administrators, trustees, insurers, and assigns.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Unknown Claims</U>&#148; means any of the Plaintiffs&#146; Released Claims and Defendants&#146; Released Claims
+that any Party does not know or suspect to exist in his, her, or its favor at the time of the release of each or any of the other Released Persons, which, if known, by him, her, or it might have affected his, her, or its decision with respect to the
+Settlement. The Parties expressly waive, relinquish, and release any and all provisions, rights, and benefits conferred by or under California Civil Code Section&nbsp;1542 (&#147;&#167;&nbsp;1542&#148;) or any other law of the United States or any
+state or territory of the United States, or principle of common law, which is similar, comparable, or equivalent to &#167;&nbsp;1542, which provides:</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="69%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="15%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:12pt">A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release,
+which if known by him or her must have materially affected his or her settlement with the debtor.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"><FONT SIZE="1">&nbsp;</FONT></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">The Parties acknowledge that they may discover facts in addition to or different from those now known or believed to be
+true by them, with respect to Plaintiffs&#146; Released Claims and Defendants&#146; Released Claims, as the case may be, but it is the intention of the Parties to completely, fully, finally, and forever compromise, settle, release, discharge, and
+extinguish any and all Plaintiffs&#146; Released Claims and Defendants&#146; Released Claims, known or unknown, without regard to the subsequent discovery of additional or different facts.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By Order of the Court, (a)&nbsp;all proceedings in the Action, other
+than those relating to the Settlement itself, have been stayed until further Order of the Court; and (b)&nbsp;pending final</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT&nbsp;OF&nbsp;SHAREHOLDER&nbsp;DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-6-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">determination of whether the Settlement should be approved,
+Plaintiffs and all other Current Microsoft Shareholders are barred and enjoined from commencing or prosecuting, derivatively on behalf of Microsoft, any of the Plaintiffs&#146; Released Claims against any of the Defendants&#146; Released
+Persons.</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">HOW WILL PLAINTIFFS&#146; COUNSEL BE PAID?</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After all material settlement terms were agreed upon, Plaintiffs&#146;
+Counsel engaged in arm&#146;s-length negotiations with Microsoft concerning an appropriate award of attorneys&#146; fees and expenses for Plaintiffs&#146; Counsel. In recognition of the substantial benefits provided to Microsoft and Current
+Microsoft Shareholders as a result of the initiation, prosecution, pendency, and settlement of the Action, Microsoft has agreed to pay to Plaintiffs&#146; Counsel attorneys&#146; fees and expenses in the total amount of $7,300,000 (the &#147;Agreed
+Fee&#148;), subject to the approval of the Court. The current Board, in the exercise of its independent business judgment, has also agreed to the Agreed Fee.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before final approval of the Settlement, Plaintiff&#146;s Counsel will
+apply to the Court for approval of the Agreed Fee, which may include an application on behalf of Plaintiffs for incentive awards in the amount of $5,000 each based on the substantial benefits they have helped to create for Microsoft and Current
+Microsoft Shareholders. The Court will determine the amount of any fee and expense award to Plaintiffs&#146; Counsel (the &#147;Fee Award&#148;), as well as any Plaintiff incentive awards which shall be funded from the Fee Award. The full amount of
+any Fee Award shall be paid by Microsoft in accordance with the terms of the Stipulation. Microsoft shareholders are not personally liable for any attorneys&#146; fees, expenses, or incentive awards approved by the Court.</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">WHEN AND WHERE WILL THE SETTLEMENT HEARING BE HELD? DO I</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">HAVE THE RIGHT TO APPEAR AT THE SETTLEMENT HEARING?</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Court will consider the Settlement and all matters related to the
+Settlement at the Settlement Hearing. The Settlement Hearing will be held before The Honorable John C. Coughenour, on January&nbsp;12, 2016 at 9:00 a.m., at the United States District Court for the Western District of Washington, 700 Stewart St.,
+Seattle, Washington, 98101. At the Settlement Hearing, the Court will (a)&nbsp;determine whether the Settlement should be approved by the Court as fair, reasonable, and adequate; (b)&nbsp;determine whether the Court should enter the Judgment
+dismissing the Action with prejudice pursuant to the Stipulation; (c)&nbsp;determine whether to approve payment of the Agreed Fee to Plaintiffs&#146; Counsel; (d)&nbsp;hear and determine any objections to the Settlement or to approval of the Agreed
+Fee; and (e)&nbsp;rule on such other matters as the Court may deem appropriate.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any Current Microsoft Shareholder (<I>i.e.</I>, any person or entity who
+owned Microsoft common stock as of October&nbsp;28, 2015) who continues to own Microsoft common stock through January&nbsp;12, 2016, the date of the Settlement Hearing, may object to the terms and</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT OF SHAREHOLDER DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-7-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="33%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">conditions of the Settlement and/or to the payment of
+the Agreed Fee to Plaintiffs&#146; Counsel. Objections must be in writing and must be filed, together with copies of all other papers and briefs supporting the objection, with the Clerk of the Court at the address set forth below on or before
+December&nbsp;29, 2015. Objections must also be served on Representative Plaintiffs&#146; Counsel and Representative Defendants&#146; Counsel (by hand, first-class U.S. mail, or express service) at the addresses set forth below so that the objection
+is <B><I>received</I></B> on or before December&nbsp;29, 2015.</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:95.00pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Clerk of the Court</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Representative</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:95.00pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Plaintiffs&#146; Counsel</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Representative</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:106.25pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Defendants&#146; Counsel</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">United States District Court</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Western&nbsp;District&nbsp;of&nbsp;Washington</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">700 Stewart St.</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Seattle, WA
+98101</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Robert B. Weiser, Esq.</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">The Weiser Law Firm, P.C.</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">22
+Cassatt Ave, First Floor</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Berwyn, PA 19312</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Daniel J. Dunne, Esq.</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Orrick, Herrington &amp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Sutcliffe
+LLP</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">701 5th Avenue, Suite 5600</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><I></I>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any objection: (a)&nbsp;must state the name, address and
+telephone number of the person or entity objecting and, if represented by counsel, the name, address and telephone number of his, her or its counsel; (b)&nbsp;must be signed by the shareholder; (c)&nbsp;must contain a written, specific statement of
+the shareholder&#146;s objection or objections, and the specific reasons for each objection, including any legal and evidentiary support the shareholder wishes to bring to the Court&#146;s attention; (d)&nbsp;must state that the objection is being
+filed with respect to &#147;<I>Barovic v. Ballmer, et al.</I>, Lead Case No: 2:14-cv-00540-JCC&#148;; and (e)&nbsp;must include documentation sufficient to prove the date of purchase of Microsoft shares, that the shareholder held shares of Microsoft
+common stock as of the close of business on October&nbsp;28, 2015 and continues to hold such shares.<I></I></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may file a written objection without having to appear at the
+Settlement Hearing. You may not, however, appear at the Settlement Hearing to present your objection unless you first filed and served a written objection in accordance with the procedures described above, unless the Court orders otherwise.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you wish to be heard orally at the hearing in opposition to the
+approval of the Settlement and/or the Agreed Fee, and if you file and serve a timely written objection as described above, you must also file a notice of appearance with the Clerk of the Court and serve it on Representative Plaintiffs&#146; Counsel
+and Representative Defendants&#146; Counsel at the addresses set forth above so that it is <B><I>received</I></B> on or before December&nbsp;29, 2015. Shareholders who intend to object and desire to present evidence at the Settlement Hearing must
+include in their written objection or notice of appearance the identity of any witnesses they may call to testify and exhibits they intend to introduce into evidence at the hearing. Any person appearing at the Settlement Hearing must present at the
+hearing documentation sufficient to prove that the shareholder continues to hold shares of Microsoft common stock as of the date of the hearing. Such persons may be heard orally at the discretion of the Court.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT&nbsp;OF&nbsp;SHAREHOLDER&nbsp;DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-8-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV STYLE="position:relative;float:left; width:3%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">1</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">2</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">3</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">4</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">5</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">6</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">7</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">8</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">9</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">10</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">11</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">12</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">13</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">14</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">15</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">16</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">17</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">18</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">19</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">20</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">21</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">22</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">23</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">24</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">25</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">26</P></TD></TR></TABLE>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:93%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B><I></I></B>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You are not required to hire an attorney to represent you
+in making written objections or in appearing at the Settlement Hearing. However, if you decide to hire an attorney, it will be at your own expense, and that attorney must file a notice of appearance with the Court and serve it on Representative
+Plaintiffs&#146; Counsel and Representative Defendants&#146; Counsel at the addresses set forth in &para; 19 above so that the notice is <B><I>received</I></B> on or before December&nbsp;29, 2015.<B><I></I></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unless the Court otherwise directs, any person or entity who fails to
+object in the manner prescribed above shall be deemed to have waived his, her, or its right to object and shall be forever barred from raising any objection to the Settlement and/or the Agreed Fee, or any other matter related to the Settlement, in
+the Action or in any other action or proceeding, but shall otherwise be bound by the Judgment to be entered by the Court and the Releases to be given.</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#e5e5e5" STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8pt" BGCOLOR="#e5e5e5"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">CAN I SEE THE COURT FILE? WHOM SHOULD I CONTACT IF I HAVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">QUESTIONS?</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3.00em; font-size:12pt; font-family:Times New Roman" ALIGN="justify">25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Notice does not purport to be a comprehensive description of the
+Action, the allegations related thereto, the terms of the Settlement, or the Settlement Hearing. For a more detailed statement of the matters involved in the Action, you may inspect the pleadings, the Stipulation, the Orders entered by the Court,
+and other papers filed in the Action at the Office of the Clerk, United States District Court for the Western District of Washington, 700 Stewart St., Seattle, Washington, 98101, during regular business hours of each business day. You may also view
+a copy of the Stipulation at www.microsoft.com. If you have questions regarding the Settlement, you may write or call the following counsel for Plaintiffs: Robert B. Weiser, Esq., The Weiser Law Firm, P.C., 22 Cassatt Ave, First Floor, Berwyn, PA
+19312 (610)&nbsp;225-2677.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>DO NOT CALL OR WRITE THE
+COURT OR THE OFFICE OF</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>THE CLERK OF THE COURT REGARDING THIS NOTICE.</B></P>
+<P STYLE="font-size:24pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:12pt">Dated: November&nbsp;24, 2015</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">By Order of the Court</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">United States District Court</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Western District of Washington</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8pt">&nbsp;</TD></TR>
+</TABLE> </DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">NOTICE OF PENDENCY AND PROPOSED</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">SETTLEMENT&nbsp;OF&nbsp;SHAREHOLDER&nbsp;DERIVATIVE</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">ACTION</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:3.60em; font-size:10pt; font-family:Times New Roman">LEAD CASE NO:
+2:14-CV-00540-JCC</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">-9-</FONT></FONT></P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">BADGLEY MULLINS TURNER PLLC</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Columbia Center</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">701 Fifth Avenue,
+Suite 4750</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Seattle, WA 98104</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>TEL&nbsp;&nbsp;</SMALL>206.621.6566</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><SMALL>FAX&nbsp;&nbsp;</SMALL>206.621.9686</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P></div><br clear="All">
+
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
